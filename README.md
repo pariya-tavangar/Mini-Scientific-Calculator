@@ -3,7 +3,7 @@
 # Mini Scientific Calculator - Via Windows📑
 ### Based on Tkinter Library
 
-![main.py](img/rmimg/index.py)
+![index.py](img/rmimg/index.py)
 
 ## Developer Todo 📝
 - [x] [Fixing adding system]()
