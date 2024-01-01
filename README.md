@@ -1,5 +1,3 @@
-# Mini-Scientific-Calculator
-
 # Mini Scientific Calculator - Via Windows📑
 ### Based on Tkinter Library
 
